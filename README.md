@@ -6,6 +6,7 @@ The project focuses on processing, analyzing, and visualizing COVID-19 data rela
 ## Purpose
 The purpose of this project is to develop my skills in data manipulation, statistical analysis, and data visualization using the R programming language. By working with real-world data, I aim to create visualizations that effectively communicate the impact of COVID-19 on different countries and gain hands-on experience with R's data handling and plotting capabilities.
 # Software Demo video
+* video link : https://youtu.be/4R46ePkkWGo
 # The project includes the following visualizations:
 * Pie Chart: Displays the proportion of death cases by country.
 * Bar Chart: Showcases death cases by country, enabling easy comparison between nations.
