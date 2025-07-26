@@ -20,8 +20,9 @@ The primary tools used for this project include:
 * R-Language: A programming language specialized for statistical computing and graphics.
 ## Useful Websites
 * R Documentation: https://www.r-project.org/
-*RStudio: https://www.rstudio.com/
-*dplyr Documentation: https://dplyr.tidyverse.org/
-*ggplot2 Documentation: https://ggplot2.tidyverse.org/
-*Stack Overflow: https://stackoverflow.com/questions/tagged/r
+* RStudio: https://www.rstudio.com/
+* dplyr Documentation: https://dplyr.tidyverse.org/
+* ggplot2 Documentation: https://ggplot2.tidyverse.org/
+* Stack Overflow: https://stackoverflow.com/questions/tagged/r
+* Kaggle: https://www.kaggle.com/
 
